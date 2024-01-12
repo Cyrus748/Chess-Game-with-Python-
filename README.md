@@ -1,4 +1,6 @@
-![alt text](https://github.com/Cyrus748/Chess-Game-with-Python-/main/snapshots/snapshot1.png?raw=true)
+# IMAGES/SCREENSHOT OF FINAL OUTPUT
+
+<img src="https://github.com/Cyrus748/Chess-Game-with-Python-/assets/119617732/e728afff-d021-43d3-9615-01daef785d67" alt="Chess Game in python" title="Chess Game with Python">
 
 
 # Chess-Game-with-Python-
