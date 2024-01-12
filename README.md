@@ -1,3 +1,6 @@
+![alt text](https://github.com/Cyrus748/Chess-Game-with-Python-/main/snapshots/snapshot1.png?raw=true)
+
+
 # Chess-Game-with-Python-
 
 Embark on an exciting chess adventure with "PyGameChess," a Python chess game that leverages the power of Pygame to deliver a visually stunning and interactive gaming experience. PyGameChess seamlessly blends the classic elegance of chess with the dynamic capabilities of Pygame, offering players a captivating journey into the world of strategic warfare on the checkered battlefield.
